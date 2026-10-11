@@ -1,4 +1,4 @@
 {
-  "payload": "{\"product\":\"ma-pvp\",\"serial\":2,\"issuedAt\":1791672653,\"validUntil\":1796856653,\"licenses\":[{\"id\":\"L-test\",\"key_sha256\":\"9b5594b737faf6807c8371c5af98687dff1e73347a5d78ddbf292985ca704ea9\",\"status\":\"active\",\"expires\":\"2027-10-09\",\"bind\":\"none\",\"servers\":[]},{\"id\":\"L-ami\",\"key_sha256\":\"ff56ff81e940c8a44d5d681f018dfcedbf573689684c971aa5fe4554613c76cc\",\"status\":\"active\",\"expires\":\"2027-10-09\",\"bind\":\"ip\",\"servers\":[]}]}",
-  "signature": "SsxUU+zeqcVpjygMxHXDryqAKnYzcQ8qwbL5UH1nRuO/MsMPYU9BaYzH9IubN5fSIGP9r8/L3kjPH8onpfWNCg=="
+  "payload": "{\"product\":\"ma-pvp\",\"serial\":3,\"issuedAt\":1791682291,\"validUntil\":1796866291,\"licenses\":[{\"id\":\"L-test\",\"key_sha256\":\"9b5594b737faf6807c8371c5af98687dff1e73347a5d78ddbf292985ca704ea9\",\"status\":\"active\",\"expires\":\"2027-10-09\",\"bind\":\"none\",\"servers\":[]},{\"id\":\"L-ami\",\"key_sha256\":\"ff56ff81e940c8a44d5d681f018dfcedbf573689684c971aa5fe4554613c76cc\",\"status\":\"active\",\"expires\":\"2027-10-09\",\"bind\":\"ip\",\"servers\":[\"ip:daca3ae871ffaa81b14f70e5\"]}]}",
+  "signature": "7fQ/q8Mo00bqDHGo6u8uiC6joGIcH9oY9vX4zCMq+mKoEcuyr172RPJfCSrOuDYvHre77PC2Zt1BPx+00S3hDA=="
 }
